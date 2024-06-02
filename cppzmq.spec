@@ -1,13 +1,13 @@
 Summary:	CPP-ZMQ library
 Summary(pl.UTF-8):	Biblioteka CPP-ZMQ
 Name:		cppzmq
-Version:	4.9.0
-Release:	2
+Version:	4.10.0
+Release:	1
 License:	MIT
 Group:		Development/Libraries
 #Source0Download: https://github.com/zeromq/cppzmq/releases
 Source0:	https://github.com/zeromq/cppzmq/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	80f3400f5d6cc48cee0fe1a045d78718
+# Source0-md5:	443c9752276da2d9ea78d8b41a158b91
 URL:		https://github.com/zeromq/cppzmq
 # Catch2 for tests
 BuildRequires:	cmake >= 3.11
